@@ -12,7 +12,7 @@ If you want to help in the development of the website then go to the [site's rep
 
 ## Anasheed
 
-First off you don't need any coding knowledge to contribute a nasheed, all you have to do is download the [nasheed template](./template.md) (which is just a fancy text file), fill it in then send it by Email to `AnasheedArchive@protonmail.com`.
+First off you don't need any coding knowledge to contribute a nasheed, all you have to do is download the [nasheed template](https://raw.githubusercontent.com/AnasheedArchive/Anasheed/main/template.md?token=GHSAT0AAAAAACPDMIXULYZD3TS5CJMF22DIZSLMSFA) (which is just a fancy text file), fill it in then send it by Email to `AnasheedArchive@protonmail.com`.
 
 ### Notes
 
