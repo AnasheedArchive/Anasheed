@@ -1,20 +1,19 @@
 ---
-title: arabic name
+title: original name
 titleEn: english translation
-lead: description (optional)
 # name of the munshid / organization that made it
-producer: cabiste
+producer: munshic
 # duration of the nasheed in seconds
 duration: 120
-# tags (slow, war, etc...)
-tags: [template]
+# leave empty if the nasheed doesn't have a unique cover image
+image: ""
 # a list of contributors (optional)
 contributors:
     - name: "cabiste"
       link: "https://github.com/cabiste69"
       contribution: "arabic lyrics"
     - name: "cabiste2"
-      link: "https://github.com/cabiste138"
+      link: "https://github.com/cabiste420"
       contribution: "English translations"
 ---
 
@@ -32,7 +31,7 @@ Some information about the nasheed (history, reason to make it etc...) (optional
 @@ English
 
 - the translation is also optional
-- but if done it must have the same lines as the original language
+- but if done it must have the same number of lines as the original language
 
 # notes
 
